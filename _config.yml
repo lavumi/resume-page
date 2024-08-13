@@ -107,11 +107,11 @@ content:
         caption: 2022.02 ~ 2022.08
         link: https://www.facebook.com/NoPicklesGame/
         link_text: Project Link
-        quote: >
-          가장 재밌었던 프로젝트입니다. 그만큼 아쉬움과 후회도 많구요.
         description: | # this will include new lines to allow paragraphs
           - 사내 소규모 프로젝트로 어몽어스 류의 게임 제작, Facebook Instant Game에 출시
           - 클라이언트( Cocos Creator )와 서버 (Node.js) 개발
+        quote: >
+          가장 재밌었던 프로젝트입니다. 그만큼 아쉬움과 후회도 많구요.
       - layout: left
         title: Rock'N Cash
         caption: 2018.08 ~ 2020.11
